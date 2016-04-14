@@ -1,0 +1,812 @@
+﻿{
+	"DM_VAP Medium Curve Large Down": {
+		"category": "Infrastructure/Pipes Medium",
+		"model": "MediumCurveLargeDown",
+		"type": "deco",
+		"price": 20.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+		}
+	},
+	"DM_VAP Medium Curve Large Side": {
+		"category": "Infrastructure/Pipes Medium",
+		"model": "MediumCurveLargeSide",
+		"type": "deco",
+		"price": 20.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+		}
+	},
+	"DM_VAP Medium Curve Large Up": {
+		"category": "Infrastructure/Pipes Medium",
+		"model": "MediumCurveLargeUp",
+		"type": "deco",
+		"price": 20.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+		}
+	},
+	"DM_VAP Medium Curve Small Down": {
+		"category": "Infrastructure/Pipes Medium",
+		"model": "MediumCurveSmallDown",
+		"type": "deco",
+		"price": 10.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+		}
+	},
+	"DM_VAP Medium Curve Small Side": {
+		"category": "Infrastructure/Pipes Medium",
+		"model": "MediumCurveSmallSide",
+		"type": "deco",
+		"price": 10.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+		}
+	},
+	"DM_VAP Medium Curve Small Up": {
+		"category": "Infrastructure/Pipes Medium",
+		"model": "MediumCurveSmallUp",
+		"type": "deco",
+		"price": 10.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+		}
+	},
+	"DM_VAP Medium End Down": {
+		"category": "Infrastructure/Pipes Medium",
+		"model": "MediumEndDown",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+			"color2": "#919191",
+		}
+	},
+	"DM_VAP Medium End Side": {
+		"category": "Infrastructure/Pipes Medium",
+		"model": "MediumEndSide",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+			"color2": "#919191",
+		}
+	},
+	"DM_VAP Medium End Up": {
+		"category": "Infrastructure/Pipes Medium",
+		"model": "MediumEndUp",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+			"color2": "#919191",
+		}
+	},
+	"DM_VAP Medium Flange Horizontal": {
+		"category": "Infrastructure/Pipes Medium",
+		"model": "MediumFlangeHorizontal",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+			"color2": "#919191",
+		}
+	},
+	"DM_VAP Medium Flange Vertical": {
+		"category": "Infrastructure/Pipes Medium",
+		"model": "MediumFlangeVertical",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+			"color2": "#919191",
+		}
+	},
+	"DM_VAP Medium Straight Horizontal": {
+		"category": "Infrastructure/Pipes Medium",
+		"model": "MediumStraightHorizontal",
+		"type": "deco",
+		"price": 10.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+		}
+	},
+	"DM_VAP Medium Straight Vertical": {
+		"category": "Infrastructure/Pipes Medium",
+		"model": "MediumStraightVertical",
+		"type": "deco",
+		"price": 10.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+		}
+	},
+	"DM_VAP Small Ceiling Curve": {
+		"category": "Infrastructure/Pipes Small",
+		"model": "SmallCeilingCurve",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+		}
+	},
+	"DM_VAP Small Ceiling Curve To Wall Down": {
+		"category": "Infrastructure/Pipes Small",
+		"model": "SmallCeilingCurveToWallDown",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+		}
+	},
+	"DM_VAP Small Ceiling Curve To Wall Up": {
+		"category": "Infrastructure/Pipes Small",
+		"model": "SmallCeilingCurveToWallUp",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+		}
+	},
+	"DM_VAP Small Ceiling Flange 1": {
+		"category": "Infrastructure/Pipes Small",
+		"model": "SmallCeilingFlange1",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+		}
+	},
+	"DM_VAP Small Ceiling Flange 2": {
+		"category": "Infrastructure/Pipes Small",
+		"model": "SmallCeilingFlange2",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+		}
+	},
+	"DM_VAP Small Ceiling Straight": {
+		"category": "Infrastructure/Pipes Small",
+		"model": "SmallCeilingStraight",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+		}
+	},
+	"DM_VAP Small Ceiling Support": {
+		"category": "Infrastructure/Pipes Small",
+		"model": "SmallCeilingSupport",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+			"color2": "#919191",
+		}
+	},
+	"DM_VAP Small Ceiling Support Extension": {
+		"category": "Infrastructure/Pipes Small",
+		"model": "SmallCeilingSupportExtension",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+			"color2": "#919191",
+		}
+	},
+	"DM_VAP Small Wall Curve Down Left": {
+		"category": "Infrastructure/Pipes Small",
+		"model": "SmallWallCurveDownLeft",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+		}
+	},
+	"DM_VAP Small Wall Curve Down Right": {
+		"category": "Infrastructure/Pipes Small",
+		"model": "SmallWallCurveDownRight",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+		}
+	},
+	"DM_VAP Small Wall Curve Up Left": {
+		"category": "Infrastructure/Pipes Small",
+		"model": "SmallWallCurveUpLeft",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+		}
+	},
+	"DM_VAP Small Wall Curve Up Right": {
+		"category": "Infrastructure/Pipes Small",
+		"model": "SmallWallCurveUpRight",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+		}
+	},
+	"DM_VAP Small Wall Flange 1 Down": {
+		"category": "Infrastructure/Pipes Small",
+		"model": "SmallWallFlange1Down",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+		}
+	},
+	"DM_VAP Small Wall Flange 1 Right": {
+		"category": "Infrastructure/Pipes Small",
+		"model": "SmallWallFlange1Right",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+		}
+	},
+	"DM_VAP Small Wall Flange 2 Down": {
+		"category": "Infrastructure/Pipes Small",
+		"model": "SmallWallFlange2Down",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+		}
+	},
+	"DM_VAP Small Wall Flange 2 Right": {
+		"category": "Infrastructure/Pipes Small",
+		"model": "SmallWallFlange2Right",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+		}
+	},
+	"DM_VAP Small Wall Straight Down": {
+		"category": "Infrastructure/Pipes Small",
+		"model": "SmallWallStraightDown",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+		}
+	},
+	"DM_VAP Small Wall Straight Right": {
+		"category": "Infrastructure/Pipes Small",
+		"model": "SmallWallStraightRight",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+		}
+	},
+	"DM_VAP Small Wall Support Down": {
+		"category": "Infrastructure/Pipes Small",
+		"model": "SmallWallSupportDown",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+			"color2": "#919191",
+		}
+	},
+	"DM_VAP Small Wall Support Down Extension": {
+		"category": "Infrastructure/Pipes Small",
+		"model": "SmallWallSupportDownExtension",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+			"color2": "#919191",
+		}
+	},
+	"DM_VAP Small Wall Support Right": {
+		"category": "Infrastructure/Pipes Small",
+		"model": "SmallWallSupportRight",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+			"color2": "#919191",
+		}
+	},
+	"DM_VAP Small Wall Support Right Extension": {
+		"category": "Infrastructure/Pipes Small",
+		"model": "SmallWallSupportRightExtension",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+			"color2": "#919191",
+		}
+	},
+	"DM_VAP Small Floor Straight": {
+		"category": "Infrastructure/Pipes Small",
+		"model": "SmallFloorStraight",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+		}
+	},
+	"DM_VAP Small Floor Curve": {
+		"category": "Infrastructure/Pipes Small",
+		"model": "SmallFloorCurve",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+		}
+	},
+	"DM_VAP Small Floor Curve To Wall Down": {
+		"category": "Infrastructure/Pipes Small",
+		"model": "SmallFloorCurveToWallDown",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+		}
+	},
+	"DM_VAP Small Floor Curve To Wall Up": {
+		"category": "Infrastructure/Pipes Small",
+		"model": "SmallFloorCurveToWallUp",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+		}
+	},
+	"DM_VAP Small Floor Flange 1": {
+		"category": "Infrastructure/Pipes Small",
+		"model": "SmallFloorFlange1",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+		}
+	},
+	"DM_VAP Small Floor Flange 2": {
+		"category": "Infrastructure/Pipes Small",
+		"model": "SmallFloorFlange2",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+		}
+	},
+	"DM_VAP Small Floor Support": {
+		"category": "Infrastructure/Pipes Small",
+		"model": "SmallFloorSupport",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#57677e",
+			"color2": "#919191",
+		}
+	},
+	"DM_VAP Vent Curve Down": {
+		"category": "Infrastructure/Vents",
+		"model": "VentCurveDown",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#919191",
+		}
+	},
+	"DM_VAP Vent Curve Side": {
+		"category": "Infrastructure/Vents",
+		"model": "VentCurveSide",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#919191",
+		}
+	},
+	"DM_VAP Vent Curve Up": {
+		"category": "Infrastructure/Vents",
+		"model": "VentCurveUp",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#919191",
+		}
+	},
+	"DM_VAP Vent Flange Horizontal": {
+		"category": "Infrastructure/Vents",
+		"model": "VentFlangeHorizontal",
+		"type": "deco",
+		"price": 3.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#919191",
+		}
+	},
+	"DM_VAP Vent Flange Vertical": {
+		"category": "Infrastructure/Vents",
+		"model": "VentFlangeVertical",
+		"type": "deco",
+		"price": 3.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#919191",
+		}
+	},
+	"DM_VAP Vent Horizontal": {
+		"category": "Infrastructure/Vents",
+		"model": "VentHorizontal",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#919191",
+		}
+	},
+	"DM_VAP Vent Support Horizontal Bottom": {
+		"category": "Infrastructure/Vents",
+		"model": "VentSupportHorizontalBottom",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#919191",
+		}
+	},
+	"DM_VAP Vent Support Vertical Side": {
+		"category": "Infrastructure/Vents",
+		"model": "VentSupportVerticalSide",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#919191",
+		}
+	},
+	"DM_VAP Vent Support Vertical Side Extension": {
+		"category": "Infrastructure/Vents",
+		"model": "VentSupportVerticalSideExtension",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#919191",
+		}
+	},
+	"DM_VAP Vent Vertical": {
+		"category": "Infrastructure/Vents",
+		"model": "VentVertical",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#919191",
+		}
+	},
+	"DM_VAP Vent AC Unit": {
+		"category": "Infrastructure/Vents",
+		"model": "VentACUnit",
+		"type": "deco",
+		"price": 20.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#919191",
+			"color2": "#292929",
+		}
+	},
+	"DM_VAP Vent Exhaust End Side": {
+		"category": "Infrastructure/Vents",
+		"model": "VentExhaustEndSide",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#919191",
+			"color2": "#292929",
+		}
+	},
+	"DM_VAP Vent Support Horizontal Side": {
+		"category": "Infrastructure/Vents",
+		"model": "VentSupportHorizontalSide",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#919191",
+		}
+	},
+	"DM_VAP Vent Support Horizontal Top": {
+		"category": "Infrastructure/Vents",
+		"model": "VentSupportHorizontalTop",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#919191",
+		}
+	},
+	"DM_VAP Vent Support Horizontal Side Extension": {
+		"category": "Infrastructure/Vents",
+		"model": "VentSupportHorizontalSideExtension",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#919191",
+		}
+	},
+	"DM_VAP Vent Support Horizontal Bottom Extension": {
+		"category": "Infrastructure/Vents",
+		"model": "VentSupportHorizontalBottomExtension",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#919191",
+		}
+	},
+	"DM_VAP Vent Exhaust Bottom": {
+		"category": "Infrastructure/Vents",
+		"model": "VentExhaustBottom",
+		"type": "deco",
+		"price": 4.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#919191",
+			"color2": "#292929",
+		}
+	},
+	"DM_VAP Vent Exhaust Side": {
+		"category": "Infrastructure/Vents",
+		"model": "VentExhaustSide",
+		"type": "deco",
+		"price": 4.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#919191",
+			"color2": "#292929",
+		}
+	},
+	"DM_VAP Vent Exhaust Top": {
+		"category": "Infrastructure/Vents",
+		"model": "VentExhaustTop",
+		"type": "deco",
+		"price": 4.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.25,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#919191",
+			"color2": "#292929",
+		}
+	},
+}

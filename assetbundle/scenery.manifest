@@ -1,0 +1,90 @@
+ManifestFileVersion: 0
+CRC: 3079932478
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bfe27c0fccf3174a9258a9e27bdeb31f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e6d74f2d6b370c4d26f3cae461538e43
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/VentExhaustTop.fbx
+- Assets/SmallWallFlange1Down.fbx
+- Assets/SmallFloorCurveToWallDown.fbx
+- Assets/VentSupportVerticalSide.fbx
+- Assets/SmallWallCurveUpRight.fbx
+- Assets/VentSupportVerticalSideExtension.fbx
+- Assets/SmallCeilingStraight.fbx
+- Assets/MediumEndDown.fbx
+- Assets/VentCurveSide.fbx
+- Assets/VentFlangeVertical.fbx
+- Assets/MediumStraightVertical.fbx
+- Assets/VentFlangeHorizontal.fbx
+- Assets/SmallWallSupportDownExtension.fbx
+- Assets/SmallFloorCurveToWallUp.fbx
+- Assets/VentSupportHorizontalSideExtension.fbx
+- Assets/SmallWallSupportDown.fbx
+- Assets/SmallWallCurveDownLeft.fbx
+- Assets/SmallFloorFlange1.fbx
+- Assets/SmallWallFlange2Down.fbx
+- Assets/SmallWallStraightDown.fbx
+- Assets/VentCurveUp.fbx
+- Assets/SmallFloorStraight.fbx
+- Assets/SmallCeilingFlange1.fbx
+- Assets/VentVertical.fbx
+- Assets/MediumCurveSmallUp.fbx
+- Assets/SmallWallCurveUpLeft.fbx
+- Assets/SmallCeilingCurve.fbx
+- Assets/SmallCeilingSupportExtension.fbx
+- Assets/SmallCeilingSupport.fbx
+- Assets/MediumCurveSmallSide.fbx
+- Assets/VentCurveDown.fbx
+- Assets/MediumCurveLargeUp.fbx
+- Assets/MediumEndSide.fbx
+- Assets/SmallWallSupportRight.fbx
+- Assets/SmallFloorSupport.fbx
+- Assets/VentACUnit.fbx
+- Assets/VentSupportHorizontalTop.fbx
+- Assets/SmallCeilingCurveToWallDown.fbx
+- Assets/MediumFlangeHorizontal.fbx
+- Assets/SmallWallCurveDownRight.fbx
+- Assets/SmallWallFlange1Right.fbx
+- Assets/MediumCurveLargeSide.fbx
+- Assets/SmallWallSupportRightExtension.fbx
+- Assets/MediumEndUp.fbx
+- Assets/VentExhaustEndSide.fbx
+- Assets/VentHorizontal.fbx
+- Assets/SmallWallStraightRight.fbx
+- Assets/MediumCurveLargeDown.fbx
+- Assets/SmallCeilingCurveToWallUp.fbx
+- Assets/SmallWallFlange2Right.fbx
+- Assets/VentSupportHorizontalSide.fbx
+- Assets/VentExhaustBottom.fbx
+- Assets/MediumStraightHorizontal.fbx
+- Assets/MediumFlangeVertical.fbx
+- Assets/SmallCeilingFlange2.fbx
+- Assets/VentExhaustSide.fbx
+- Assets/SmallFloorCurve.fbx
+- Assets/VentSupportHorizontalBottom.fbx
+- Assets/VentSupportHorizontalBottomExtension.fbx
+- Assets/SmallFloorFlange2.fbx
+- Assets/MediumCurveSmallDown.fbx
+Dependencies: []
